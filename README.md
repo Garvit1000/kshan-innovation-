@@ -7,9 +7,9 @@ Technology Stack
 
 This project is built using the foundational web development technologies:
 
-    HTML5: Structuring the web content and layout.
-    CSS3: Styling the website, including layouts, colors, and fonts, with a focus on responsiveness and user interface design.
-    JavaScript (ES6+): Adding interactivity to the website, handling user inputs.
+    HTML: Structuring the web content and layout.
+    CSS: Styling the website, including layouts, colors, and fonts, with a focus on responsiveness and user interface design.
+    JavaScript : Adding interactivity to the website, handling user inputs.
 
 
     Thank you for visiting the Kishan-Innovation full stack website project. 
